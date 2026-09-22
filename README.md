@@ -5,6 +5,6 @@
 **Género:** Disparo-Lucha / Ciencia Ficción.
 
 ### Equipo de Desarrollo
-* **Persona 1 (Líder Técnico / Integración):
-* **Persona 2 (Enemigos y Colisiones):
-* **Persona 3 (Pruebas, Sonido y Récord):
+* Persona 1 (Líder Técnico / Integración):
+* Persona 2 (Enemigos y Colisiones):
+* Persona 3 (Pruebas, Sonido y Récord):
